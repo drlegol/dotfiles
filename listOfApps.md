@@ -1,0 +1,3 @@
+- fvwm
+- sway
+- easytag
